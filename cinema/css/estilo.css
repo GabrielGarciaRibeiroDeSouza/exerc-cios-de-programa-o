@@ -11,7 +11,7 @@ h2 a {
   color: seagreen;
 }
 p {
-  text-size-adjust: 20px;
+  font-size: 20px;
 }
 body {
   font-family: Arial;
